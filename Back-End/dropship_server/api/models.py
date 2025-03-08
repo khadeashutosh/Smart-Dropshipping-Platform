@@ -75,7 +75,6 @@ class ShippingAddress(models.Model):
 
 
 
-
  
 
 
