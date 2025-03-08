@@ -74,6 +74,7 @@ class ShippingAddress(models.Model):
 
 
 
+#models.py file
 
  
 
