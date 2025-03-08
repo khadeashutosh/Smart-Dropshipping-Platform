@@ -1,5 +1,5 @@
 """
-ASGI config for dropship_server project.
+ASGI config for dropship_server project
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
