@@ -72,7 +72,7 @@ class ShippingAddress(models.Model):
   def __str__(self):
     return str(self.address)
 
-#modles
+
 
 
 
